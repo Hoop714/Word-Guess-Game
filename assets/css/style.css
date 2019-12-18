@@ -66,6 +66,9 @@ body {
   font-weight: bold;
 }
 
+#incorrect-guesss {
+  margin-bottom: 50px;
+}
 #wins, #losses {
   float: left;
   margin-left: 100px;
