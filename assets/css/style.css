@@ -109,6 +109,9 @@ border-top: 6px solid gold;
   #incorrect-guesses, #remaining-guesses, #name-blanks, #wins {
   width: 100%;
   }
+.footer {
+  width: 100%;
+}
 }
 @media (max-width: 768px) {
 .HOFPicture {
@@ -128,6 +131,9 @@ border-top: 6px solid gold;
     }
 #incorrect-guesses, #remaining-guesses, #name-blanks, #wins {
     width: 100%;
+    }
+.footer {
+      width: 100%;
     }
   }
 
@@ -149,5 +155,8 @@ border-top: 6px solid gold;
     }
 #incorrect-guesses, #remaining-guesses, #name-blanks, #wins {
     width: 100%;
+    }
+.footer {
+      width: 100%;
     }
   }
