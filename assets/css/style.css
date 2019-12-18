@@ -66,6 +66,10 @@ body {
   font-weight: bold;
 }
 
+#incorrect-guesses {
+  margin-bottom: 50px;
+}
+
 #wins, #losses {
   float: left;
   margin-left: 100px;
@@ -86,7 +90,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 	padding: 10px 0px;
 	color: #ffffff;
-	margin-top: 15px;
   border-top: 6px solid gold;
 }
 
